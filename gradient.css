@@ -5,6 +5,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bold;
+    font-family: 'Rampart One', cursive;
 }
 
 .center{
